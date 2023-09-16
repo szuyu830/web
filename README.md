@@ -8,6 +8,7 @@
 
 ## 課程筆記區
 ## 作業連結區
+HW1 https://szuyu830.github.io/page1/
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
