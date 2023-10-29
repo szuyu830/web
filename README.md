@@ -12,7 +12,7 @@ HW1 https://szuyu830.github.io/page1/
 
 HW2 https://youtu.be/t5mw2GoajIE
 
-HW3 
+HW3 https://youtu.be/-zlG-9O9u58
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
